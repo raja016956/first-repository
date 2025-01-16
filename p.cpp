@@ -33,6 +33,7 @@ int main()
 		c2.setter(20);
 		c3= c1+c2;
 		cout << " c3 object radius value is: " << c3.getter();
+		cout << " c3 object radius value is: " << c3.getter();
 	
 	getch();
 	return 0;
